@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="donut_size">250dp</dimen>
+    <dimen name="donut_stroke_size">10dp</dimen>
+    <dimen name="donut_textSize">40dp</dimen>
+</resources>
